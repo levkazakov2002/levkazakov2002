@@ -1,16 +1,28 @@
-## Hi there 👋
+# Lev Kazakov
 
-<!--
-**levkazakov2002/levkazakov2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied mathematics · Finance · Python**
 
-Here are some ideas to get you started:
+I have a background in applied mathematics and audit. I use Python for data analysis, reporting automation and financial research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include portfolio optimisation, risk analysis and corporate finance.
+
+## Featured project
+
+### [All-Weather Portfolio Optimisation](https://github.com/levkazakov2002/master_degree_diploma_code)
+
+My master's research project on portfolio allocation in the Russian financial market. It combines multi-criteria optimisation, historical risk-return comparisons, robustness checks and econometric analysis.
+
+The repository includes the analysis notebook, data and documentation in English and Russian.
+
+## Technical background
+
+- **Data and research:** Python, pandas, NumPy, SciPy, Jupyter.
+- **Additional development experience:** C# and collaborative work on procedural terrain generation.
+
+## Contact
+
+[prorab651@gmail.com](mailto:prorab651@gmail.com)
+
+---
+
+[Русская версия](https://github.com/levkazakov2002/levkazakov2002/blob/main/README.ru.md)
